@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '38316'
     url: http://www.gutenberg.org/2009/agents/38316
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36513#Water-WizardryA-collection-of-tricks-in-which-water-is-the-chief-agent
 gutenberg_issued: '2011-06-24'
 gutenberg_type: Text
 identifiers:
